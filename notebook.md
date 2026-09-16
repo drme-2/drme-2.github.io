@@ -1,5 +1,7 @@
 ## Table of Contents
-
+- [Blocks](#blocks)
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
   - [Headings](#headings)
@@ -49,7 +51,16 @@
 
 
 
-
+- [Blocks](#blocks)
+- a hat block starts a stack of blocks and are shaped to attach blocks below them.
+- a command block performs main commands. They are shaped to attach above or below other stack blocks.
+- a c block loops the block(s) within them or check if a condition is true or false. They are shaped to attach stack blocks above, below, or inside them.
+- a reporter block reports values in the form of numbers and fits inside any blocks with oval inputs for other blocks.
+- a boolean block returns a condition as either true or false and fits inside any blocks with hexagonal (six-sided) inputs for other blocks.
+- a repeat block repeats the code inside it how many you put it too.
+- 
+- [Concepts](#concepts)
+- [Vocabulary](#vocabulary)
 ## Markdown Style Guide for Coding Notebooks
 
 
