@@ -48,7 +48,8 @@ What i learned is that each wires has its purpose but also improvising on the dr
 — Date: Nov 7th, 2026
 
 today we were taking measurements of the cardboard robot.
-
+The measurements were: width: 60 mm Length: 80 mm
+We also took the day cutting out several pieces to see which one our team liked. We also had to measure the real robot to get the size of the cardboard robot to be up to scale.
 ---------
 
 ## Day 5
